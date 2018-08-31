@@ -1,3 +1,3 @@
 # Boyfriend
 
-💁🏻‍♀️ experiments in persistant data exfiltration
+💁🏻‍ experiments in persistant data exfiltration
